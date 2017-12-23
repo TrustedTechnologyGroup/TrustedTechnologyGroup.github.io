@@ -1,0 +1,610 @@
+{
+    "jobs": [
+        {
+            "daysVacant": 29,
+            "focus": [
+                "Bringing it in JS!"
+            ],
+            "id": "E900-022",
+            "level": "Senior",
+            "location": "Herndon, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Languages: Ruby, JavaScript, CSS, CoffeeScript, HAML, Saas.",
+                "Testing Tools: RSpec, Cucumber.",
+                "Static analysis tools: Rubocop, JSHint.",
+                "Frontend design framework: Bootstrap.",
+                "Frontend JavaScript frameworks: Angular JS, jQuery-ui, EXT-JS.",
+                "Deployment tools: Capistrano, Mina.",
+                "Source code management; git on Github.",
+                "Operating system: CentOS Linux.",
+                "Infrastructure: AWS (EC2,S3, RDS, etc).",
+                "Database server: MySQL, some legacy Oracle.",
+                "Web server: Apache httpd.",
+                "Application server: Phusion Passenger.",
+                "Full text search: Solr, Elasticsearch."
+            ],
+            "title": "Web Developer"
+        },
+        {
+            "daysVacant": 47,
+            "focus": [
+                "Customer Support"
+            ],
+            "id": "E900-074",
+            "level": "Senior",
+            "location": "Herndon, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Customer DMA or CMA experience or strong technical skills and ability to be trained. Hours = 7:00-3:30"
+            ],
+            "title": "Customer Services and Information Technology Officer"
+        },
+        {
+            "daysVacant": 82,
+            "focus": [
+                "Fullstack",
+                "Java",
+                "Web"
+            ],
+            "id": "E900-146",
+            "level": "Expert",
+            "location": "Herndon, VA",
+            "qualifications": [
+                "Application Developer to support development and maintenance of large enterprise information system.",
+                "Minimum two years of demonstrated on-the-job experience developing applications using Java.",
+                "Experience engineering complex J2EE applications.",
+                "Must have strong technical and analytical skills in SOA and hands-on experience with system to system integration.",
+                "Must be able to work effectively with other developers to communicate and exchange design/implementation ideas to achieve integration goals.",
+                "Spring and Hibernate",
+                "JavaScript, jQuery, AJAX, HTML, CSS, XML or other web technologies.",
+                "PL/SQL database such as MySQL and Oracle.",
+                "NetBeans or Eclipse",
+                "Maven or Ant, Subversion or Git.",
+                "IBM Maximo",
+                "Agile development experience.",
+                "Unix/Linux experience."
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Java, JEE (JSF, JSP, Servlet, JMS), Hibernate, JPA, Spring Framework, Apache Tomcat, Active MQ (or similar JMS server), SOA (Apache Axis or similar framework), JavaScript, JQuery, Oracle or similar database. Nice to have = Maximo, Unix/Linux experience, PL/SQL experience."
+            ],
+            "title": "Software Developer"
+        },
+        {
+            "daysVacant": 13,
+            "focus": [
+                "PHP",
+                "WordPress"
+            ],
+            "id": "E900-147",
+            "level": "Expert",
+            "location": "Herndon, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Candidate must have strong skills in PHP, Joomla and WordPress.",
+                "Any additional development skills in Domino, Ruby, node.JS, SharePoint a plus."
+            ],
+            "title": "Web Developer, Lead"
+        },
+        {
+            "daysVacant": 163,
+            "focus": [
+                "Lotus Notes",
+                "SharePoint",
+                "Web"
+            ],
+            "id": "E920-018",
+            "level": "Senior",
+            "location": "Herndon, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "SharePoint/Lotus Notes (Domino) experience.",
+                "Experience/knowledge using SharePoint 2010 & 2013 Designer, Administration of SharePoint sites and site collection.",
+                "Experience with SharePoint website redesigns.",
+                "Experience/knowledge of Lotus Notes development and LotusScript.",
+                "HTML, CSS, JQuery, JavaScript.",
+                "Experience/knowledge with Adobe Suite (PhotoShop, Dreamweaver)"
+            ],
+            "title": "Software Developer"
+        },
+        {
+            "daysVacant": 19,
+            "focus": [
+                "Sys Admin",
+                "Design"
+            ],
+            "id": "E920-185",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Windows Server [2003, 2008, 2012] experience.",
+                "Windows VB/Powershell scripting experience.",
+                "ArcServer/Microsoft DPM experience.",
+                "Recap/Upgrade servers.",
+                "Troubleshoot servers/applications."
+            ],
+            "title": "Systems Operations Specialist"
+        },
+        {
+            "daysVacant": 19,
+            "focus": [
+                "SharePoint",
+                "Web"
+            ],
+            "id": "E920-190",
+            "level": "Junior",
+            "location": "McLean, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Experience/knowledge using SharePoint 2010 & 2013 Designer.",
+                "Administration of SharePoint sites and site collection and experience with SharePoint website redesigns.",
+                "Experience/knowledge of HTML, CSS, JQuery, JavaScript, WordPress."
+            ],
+            "title": "Web Developer"
+        },
+        {
+            "daysVacant": 110,
+            "focus": [
+                "Full Stack",
+                "Java",
+                "Web"
+            ],
+            "id": "E920-204",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Java, Spring, Hibernate.",
+                "Oracle, PL/SQL.",
+                "Jquery, ExtJS.",
+                "LDAP.",
+                "Strongly Preferred:  Message Queues ( Active MQ, Rabbit MQ , Amazon SQS), Tomcat, ANT, Maven"
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Java/Spring/Hibernate.",
+                "JavaScript, jQuery, ExtJs.",
+                "PL/SQL, Knowledge of Oracle.",
+                "Message Queues (Active MQ, Rabbit MQ, etc...).",
+                "Experience with Tomcat, ANT, Maven."
+            ],
+            "title": "Software Developer"
+        },
+        {
+            "daysVacant": 82,
+            "focus": [
+                "Full Stack",
+                "Java",
+                "Web"
+            ],
+            "id": "E920-207",
+            "level": "Subject Matter Expert",
+            "location": "McLean, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Java, jQuery, ASP.NET, Oracle"
+            ],
+            "title": "Applications Architect"
+        },
+        {
+            "daysVacant": 13,
+            "focus": [
+                "Sys Admin",
+                "Design"
+            ],
+            "id": "E920-208",
+            "level": "Expert",
+            "location": "Tysons, VA",
+            "qualifications": [
+                "Required: Data Protection Manager (DPM)",
+                "Required: Active Directory Federation Services (ADFS)",
+                "Required: SQL Server 2014 Always On Availability Groups (AOAGs)",
+                "Required: System Center Operations Manager (SCOM)",
+                "Required: clustering and network load balancing",
+                "Required: web application deployments",
+                "Required: Virtual Machine Manager (VMM)",
+                "Required: certificate management",
+                "Desired: Microsoft Content Management Server (MCMS) and Customer Relationship Management (CRM) experience",
+                "Desired: Privileged Access Software (PRIVAC)",
+                "Desired: managing Windows servers remotely",
+                "Desired: installing service packs and updates",
+                "Desired: performing backups and restores",
+                "Desired: server builds",
+                "Desired: patch management",
+                "Desired: SharePoint",
+                "Desired: PowerShell and experience automating tasks using PowerShell scripting",
+                "Desired: managing data access",
+                "Desired: Hyper-V"
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "DPM, ADFS, AOAGs, SCOM, VMM.",
+                "Experience with web application deployments."
+            ],
+            "title": "Windows Systems Administrator"
+        },
+        {
+            "daysVacant": 27,
+            "focus": [
+                "Field Work",
+                "Installation"
+            ],
+            "id": "E920-275",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Provide professional installation of network and video systems in harsh environments, both internal and external to facilities",
+                "Ability to learn and install video systems, network systems and satellite systems",
+                "Ability to write build-to, as-build, and create other baseline documents",
+                "Function in accordance with the project management framework tailored to mission needs",
+                "Must be able to collect and distill user requirements to technical system requirements",
+                "Must be able to document and articulate complicated system designs into required technical documents associated with different phases of the project management process, to include design documents, implementation plans, test plans",
+                "Must be able to engage in technical system planning beyond the network, to include applications and systems that utilize the network being delivered.",
+                "Must be able to learn new technologies and characteristics of collection systems and how they affect or are effected by network characteristics",
+                "Implementation of LAN and WAN equipment including firewalls, servers, workstations, routers, switches, hubs, storage devices, A/V equipment and equipment racks.",
+                "Multi-floor fiber installation and quality assurance.",
+                "Duties include (but not limited to): outside cabling and coax running (inclusive of digging trenches), setting up satellite dishes and configuring cameras, routers, computer hardware/software, security cameras, racks, fiber installation, A/V equipment installation."
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "60-80% Travel Required.",
+                "Field Installation."
+            ],
+            "title": "Network Engineer"
+        },
+        {
+            "daysVacant": 72,
+            "focus": [
+                "Sys Admin",
+                "Design"
+            ],
+            "id": "E920-288",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Ability to administer Windows computers that are standalone and domain attached.",
+                "Perform Active Directory design, deployment, and administration",
+                "Ability to utilize group policy to administer and deliver configuration changes, software deployments, etc. to objects controlled by Active Directory.",
+                "Ability to deploy and maintain a Certificate Authority as well as troubleshoot software and equipment interactions with a CA.",
+                "Ability to lock a machine's network capability using host based info-security.",
+                "Ability to manage Linux servers via command line using bash.",
+                "Ability to lock a machine's network capability using host based info-security.",
+                "Ability to install and configure open source software applications",
+                "Experience with CentOS/Red Hat",
+                "Application/product integration into a system",
+                "Ability to take CoTS products, evaluate, and provide proper engineering designs, deployment plans, transition steps, etc. to deliver a solution.",
+                "Define performance requirements for products.",
+                "Engineering standard practices:",
+                "Ability to produce standard engineering process documents (Requirements, Design, Implementation, Testing)",
+                "Proven ability to use critical thinking and complex problem solving skills",
+                "Self-starter capable of working in a team and with minimal oversight",
+                "Ability to explain procedures and complex technical information to peers and non-technical customers.",
+                "Scripting:  BAT/Powershell, BAS, Javascript, PHP, Python, Ruby",
+                "VMWare: Ability to build a scaling vCenter environment, define roles for a secure vCenter implementation, and implement virtual capabilities across multiple data centers."
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Design, configure, implement, and support various elements of a core infrastructure for Network, Compute, Storage, and Application Tenancy."
+            ],
+            "title": "Computer Engineer"
+        },
+        {
+            "daysVacant": 168,
+            "focus": [
+                "Linux"
+            ],
+            "id": "E920-330",
+            "level": "Subject Matter Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Strong Linux skills.  At least 5-10 years' experience (Red Hat, CENTOS)",
+                "3-5 years using Linux in an Enterprise Environment",
+                "Experience with VMware/vSphere, LDAP/Active Directory, and Enterprise grade storage (in the multi-TB range)",
+                "Geospatial experience",
+                "Oracle experience"
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Strong Linux skills.",
+                "At least 5-10 years' experience (Red Hat, CENTOS)"
+            ],
+            "title": "Systems Administrator"
+        },
+        {
+            "daysVacant": 16,
+            "focus": [
+                "PDR",
+                "CDR",
+                "Requirements"
+            ],
+            "id": "E920-386",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Strong Technical Writer/Configuration Management Specialist.",
+                "Mandatory: MS Visio",
+                "Mandatory: Project Management Lifecycle Methodologies ",
+                "Mandatory: Requirements Gathering / Requirements Analysis ",
+                "Mandatory: Risk Management",
+                "Desired: Familiarity with AbacusDesired: Systems Engineering Process ",
+                "Desired: Technical Writer"
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Customer requires an expert PM to coordinate the immediate implementation of operational requirements for various essential IT Systems and Applications.  PM will be responsible for coordinating infrastructure, system, and user requirements, managing project schedules and working with customer/external counterparts to deliver solutions.  PM must have an established track record of success in a diverse range of technical ability and knowledge.  The chosen candidate will be coordinating deployments that cover specialized SW applications, hardware, and networking.  The PM must also be familiar with the customer's project lifecycle, including required boards, approvals, processes, and other common IT project milestones.  The PM must also have the desire, ability, and willingness to pitch in and help with manual labor and deployments when applicable and appropriate."
+            ],
+            "title": "Program Manager"
+        },
+        {
+            "daysVacant": 93,
+            "focus": [
+                "Enterprise"
+            ],
+            "id": "E920-503",
+            "level": "Expert",
+            "location": "Herndon, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Primary position focus is designing and implementing an enterprise level network to support a hybrid cloud environment.",
+                "Secondary position focus is designing and implementing an enterprise level security to protect the hybrid cloud network.",
+                "Demonstrated experience with  LANs, WANs, Routing Protocols, VLANs, AWS, Network Management/Monitoring, and Firewalls, IPSec Tunnels."
+            ],
+            "title": "Network Architect"
+        },
+        {
+            "daysVacant": 35,
+            "focus": [
+                "Big Data Analytics"
+            ],
+            "id": "E920-507",
+            "level": "Senior",
+            "location": "McLean, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Assignment 6 months to start, with possible extension to permanent for O&M support.",
+                "Support effort to structure financial data for use by analysts.",
+                "Act as a consultant to team and help shape big data ingest process.",
+                "Demonstrated experience with patching data sets together for analysis so that they can be searched against each set.",
+                "Demonstrated experience working with structured data sets.",
+                "Familiar with working with unstructured data sets.",
+                "Demonstrated experience with HTML, JSON and XML.",
+                "Ability to apply JSON API queries between systems.",
+                "Experience with AWS cloud architecture.",
+                "Experience with manipulating data from Oracle and SQL servers.",
+                "Demonstrated programming experience with Java and Python."
+            ],
+            "title": "Applications Architect"
+        },
+        {
+            "daysVacant": "35",
+            "focus": [
+                "ArcGIS Sys Admin"
+            ],
+            "id": "A1701-01",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Should be someone familiar with the configuration and maintenance of an ArcGIS server architecture.  They will be working with an IT team to keep an ongoing system configured for optimal performance as the services and applications evolve."
+            ],
+            "title": "ESRI ArcGIS Server Architect"
+        },
+        {
+            "daysVacant": "35",
+            "focus": [
+                "Fullstack",
+                "Python",
+                "Web"
+            ],
+            "id": "A1701-02",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Nice to have:",
+                "JSONAPI",
+                "Elasticsearch",
+                "Webpack",
+                "NVD3",
+                "Conda",
+                "PostGIS",
+                "NGINX",
+                "Supervisor"
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Required:",
+                "Python",
+                "Flask",
+                "SQLAlchemy",
+                "RESTful services",
+                "Postgresql",
+                "Javascript/jQuery",
+                "Backbone JS",
+                "Boostrap",
+                "D3",
+                "Git",
+                "Linux command line"
+            ],
+            "title": "Geospatial Web Developer"
+        },
+        {
+            "daysVacant": "35",
+            "focus": [
+                "Data Librarian"
+            ],
+            "id": "A1701-03",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Proficiency in ArcGIS and/or open source equivalents.",
+                "Motivated, self-starter initiative.",
+                "Versatile geospatial skills to assist with data editing, manipulation and visualization."
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Partnering with analysts for creative problem solving of geospatial data issues",
+                "Proactive searching for data in non-obvious locations, building relationships with data providers",
+                "Map layout creation for finished intelligence production",
+                "Determine analysts' data needs and make them aware of new data offerings",
+                "Convert data into usable formats for analysis",
+                "Cataloging new data acquisitions and maintaining catalogs and metadata",
+                "Ensure proper formatting for existing data library",
+                "Publish geospatial datasets into web environment",
+                "Monitor allocated memory space"
+            ],
+            "title": "Geospatial Data Specialist"
+        },
+        {
+            "daysVacant": "22",
+            "id": "A1701-04",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Desired skills:",
+                "Linux platform and database in a cloud environment",
+                "Database Design",
+                "Knowledge of SQL queries",
+                "Experience configuring indexed databases",
+                "Python/Anaconda",
+                "Fiona/Shapely",
+                "OGR/GDAL",
+                "PostgreSQL/PostGIS",
+                "ArcGIS/ArcPy and/or QGIS",
+                "Desired: Bourne-Again Shell (bash)"
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Create and maintain spatial and non-spatial data within PostgreSQL databases with PostGIS.",
+                "Optimize spatial database performance via index construction and data reorganization using SQL.",
+                "Automate ancillary data population through triggers and stored procedures using SQL.",
+                "Prepare and execute queries in spatial and non-spatial databases using SQL.",
+                "Support end-users with customized SQL queries to support ad-hoc analysis tasks.",
+                "Work with various types of geospatial data sources (Esri File Geodatabase, Shapefiles, GeoJSON, etc.)."
+            ],
+            "title": "Geospatial Database Administrator"
+        },
+        {
+            "daysVacant": "12",
+            "id": "A1701-05",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Experience working on Linux platform and Database in a cloud environment.",
+                "Python, ArcPy, Fiona, OGR/GDAL.",
+                "Json.",
+                "PostgreSql, PostGis.",
+                "QGIS."
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "Create and maintain spatial and non-spatial data within relational databases.",
+                "Prepare and execute workflows and geoprocessing models using Python.",
+                "Prepare and execute queries in spatial and non-spatial databases using SQL.",
+                "Develop and maintain geospatial datasets including those stored in relational databases.",
+                "Work with various types of geospatial data; GeoJson, shapefiles, Geodatabase and etc."
+            ],
+            "title": "Geospatial Programmer"
+        },
+        {
+            "daysVacant": "56",
+            "focus": [
+                "ArcGIS Sys Admin"
+            ],
+            "id": "D1701-01",
+            "level": "Expert",
+            "location": "McLean, VA",
+            "qualifications": [
+                "Bachelor\u2019s degree in Computer Science or related field and 5+ years of experience in UI/UX design. 5 years of additional experience in lieu of degree",
+                "Experience with user centered design principles and practices, web standards, typography and color, and web usability standards",
+                "Experience with interaction design and information architecture disciplines",
+                "Experience in creating wireframes, visual mockups graphics, and user workflows",
+                "Proficient with Adobe Creative Suite",
+                "Familiar with CSS, HTML, JavaScript/JQuery, and D3",
+                "Familiar with at least one web framework (Django, Grails, etc.)",
+                "Knowledge of Axure RP, Balsamiq, or Visio"
+            ],
+            "requirements": [
+                "US citizenship",
+                "Active TS/SCI with Polygraph"
+            ],
+            "responsibilities": [
+                "This role will provide support to the front end of an analytic application for a project located in McLean, VA.",
+                "Primary Responsibilities:",
+                "Redesign an existing User Interface for an analytic application",
+                "Present design concepts and negotiate with stakeholders",
+                "Produce a design in support of both the business and a strong user experience",
+                "Create high quality designs with cross browser and cross platform compatibility",
+                "Develop conceptual models, personas, workflows, design prototypes, and user interface specifications",
+                "Ensure User Interface guidelines and standards are followed during the development and maintenance of the product",
+                "Conduct product usability tests",
+                "Work efficiently with a cross functional team of analysts, data scientists, project managers, and software solutions integrators"
+            ],
+            "title": "User Interface/User Experience Designer"
+        }
+    ],
+    "timestamp": "Wednesday 07/12/17 21:31:59"
+}
